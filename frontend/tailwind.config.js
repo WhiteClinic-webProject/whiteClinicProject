@@ -3,11 +3,10 @@ module.exports = {
   content: [],
   theme: {
     colors: {
-      Basic_black: "#101010",
-      Basic_red: "#E34545",
-      Basic_white: "#FFFFFF",
-      Basic_gray: "#999999",
-      Basic_skyBlue: "#F1FCFF",
+      Basic_black: "#181818",
+      Basic_red: "#FF2D2D",
+      Basic_white: "#FAFAFA",
+      Basic_Blue: "#1A6FB0",
     },
     extend: {},
   },
